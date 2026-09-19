@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9dffb82077944dfa8c0882ee",
+  "owner": "xepers",
+  "repo": "page-780c70cdb8ee91d147da2e51",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "780c70cdb8ee91d147da2e51",
+      "a": "搬瓦工(JustMySocks)",
+      "b": "clash verge服务商官网",
+      "entity": "搬瓦工(JustMySocks)",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "335a481470b5a1fa732b42ffa565ee14bcdf25830f029fa6930f07a5fa1ab042",
+      "content": {
+        "primary_entity": "搬瓦工(JustMySocks)",
+        "keyword1": "搬瓦工(JustMySocks)",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备适配不同客户端，按系统选择更稳定。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "选对套餐并配好订阅，即可开始使用搬瓦工(JustMySocks)。",
+          "AI_CLOSING_TITLE": "配置订阅即刻使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付15元起，年付150元起。基础版含每月100GB流量、3台设备在线；旗舰版含每月300GB流量、5台设备与IPLC专线游戏优化；团队版含每月1000GB流量、20台设备与VIP高带宽节点。按设备数量与流量需求选择，配合对应客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐、设备与周期三个角度说明搬瓦工(JustMySocks)的订阅配置。",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人轻量使用，旗舰版与团队版覆盖多设备、大流量和专线加速场景。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数量随套餐递增，从3台到20台，按常用终端数量选择对应档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付150元、旗舰版350元、团队版850元，可结合使用周期决定。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "匹配设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成搬瓦工(JustMySocks)的接入准备。",
+          "AI_GUIDE_TITLE": "三步配置指南",
+          "AI_HERO_INTRO": "搬瓦工(JustMySocks)提供多档海外加速订阅，覆盖个人到团队场景。基础版、旗舰版、团队版分别对应不同流量与设备数量，年付方案价格更优。配合主流客户端导入订阅，可按设备类型完成配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备灵活选择",
+          "AI_HIGHLIGHT_1": "月付15元起，年付更省",
+          "AI_HIGHLIGHT_2": "流量100GB至1000GB可选",
+          "AI_HIGHLIGHT_3": "支持3至20台设备在线",
+          "AI_PLANS_INTRO": "基础版100GB/3台设备，旗舰版300GB/5台设备含IPLC专线，团队版1000GB/20台设备，按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认自己的操作系统与客户端支持情况，查看对应的订阅适配要求。",
+          "AI_STEP_TEXT_3": "按照所选客户端的文档指引，导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "搬瓦工(JustMySocks)订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数按同时连接计算，手机、平板、电脑共享名额。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。若多设备追剧或下载较多，建议从旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "可以。基础版提供普通线路节点池，旗舰版增加 IPLC 专线并优化游戏延迟，团队版为 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_4": "月付适合短期使用，年付更划算。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元。",
+          "AI_FAQ_ANSWER_5": "按设备系统安装对应客户端后，复制订阅链接粘贴导入，选择节点连接即可。不同系统步骤略有差异，可参考客户端自带说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "各版本流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有区别吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何连接使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "60c22e9f31b3c2c60698667edbe3cbbb98777c18d502b6f067f8308a2d814cc2",
+    "sitemap.xml": "05497c8a3ad38d07d20562872d4e24748fce098ccda0b26e070a7026dd6759a7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "be51349c12a58b17bd7cd6c1f126a1fa1d5602b0d459cf90c911daf8c8ae1943"
+}
